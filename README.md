@@ -1,6 +1,6 @@
 <div align="center">
 
-# Text Hover effect with Splitting.js | Crimson
+# Stroke Circle with Filter Effect Gsap | Crimson
 
 <img src="admin/base.png">
 
